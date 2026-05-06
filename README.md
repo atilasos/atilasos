@@ -1,99 +1,124 @@
-# Hello, I'm Igor Almeida 👋
+<div align="center">
 
-I'm an **Information and Communication Technologies (ICT) teacher** in primary school (1.º ciclo) in Funchal, Madeira. I work with young children and try to use technology as a tool for creation, cooperation, autonomy, and critical thinking.
+# Igor Almeida
 
-I'm especially interested in **active learning pedagogies**, **project work**, **computational thinking**, **Minecraft Education**, **educational robotics**, **responsible artificial intelligence in education**, and digital tools that help students and teachers organise the learning process more clearly.
+**ICT teacher · 1.º ciclo · Funchal, Madeira**
 
-> I use technology as a means to give children more authorship, voice, and autonomy — not as an end in itself.
+*Active learning · Project work · Computational thinking · Responsible AI*
+
+[![Site](https://img.shields.io/badge/site-atilasos.github.io-0a0a0a?style=flat-square&logo=githubpages&logoColor=white)](https://atilasos.github.io)
+[![GitHub](https://img.shields.io/badge/github-atilasos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atilasos)
+[![Email](https://img.shields.io/badge/email-prof.igor-1f6feb?style=flat-square&logo=maildotru&logoColor=white)](mailto:prof.igor@colegioinfante.info)
+[![Location](https://img.shields.io/badge/Funchal-Madeira-2ea043?style=flat-square&logo=googlemaps&logoColor=white)](https://www.openstreetmap.org/relation/5400890)
+
+</div>
+
+---
+
+> I use technology as a means to give children more **authorship**, **voice**, and **autonomy** — not as an end in itself.
+
+I'm an **Information and Communication Technologies (ICT) teacher** in primary school (1.º ciclo) at Colégio Infante D. Henrique, Funchal. I've worked with young children since 2006 and focused on ICT since 2009. I treat technology as a tool for creation, cooperation, and critical thinking.
 
 ## What I do
 
-- I teach ICT to pre-school and primary school children.
-- I create activities with Minecraft Education, robotics, programming, and digital tools.
-- I develop experiments and small projects to support learning organisation.
-- I explore responsible ways of using artificial intelligence in educational contexts.
-- I work from a pedagogical view centred on cooperation, autonomy, authorship, and formative assessment.
+- 🧑‍🏫 Teach ICT to pre-school and primary school children
+- 🧱 Design activities with **Minecraft Education**, **robotics**, **programming** and digital tools
+- 🛠️ Build small experiments and tools that support classroom organisation
+- 🤖 Explore **responsible AI** in educational contexts
+- 🤝 Work from a pedagogy of **cooperation, autonomy, authorship and formative assessment**
 
 ## Featured projects
 
-### [PageCraft](https://github.com/atilasos/pagecraft)
+| Project | Stack | Live | Description |
+|---|---|---|---|
+| **[PageCraft](https://github.com/atilasos/pagecraft)** | HTML · CC BY-SA | [↗](https://atilasos.github.io/pagecraft/) | Catalogue of self-contained HTML activities with teacher support |
+| **[Cubinhos 3D](https://github.com/atilasos/cubinhos-3d)** | JS · Minecraft Education | [↗](https://atilasos.github.io/cubinhos-3d/) | Voxel builder that exports `.mcstructure` for Minecraft Education |
+| **[CRJM](https://github.com/atilasos/crjm)** | TS · math games | [↗](https://atilasos.github.io/crjm/) | Training app for Madeira's Regional Math Games Championship |
+| **[SpikeLab Sim](https://github.com/atilasos/spikelab-sim)** | TS · React · Blockly · Matter.js | [↗](https://atilasos.github.io/spikelab-sim/) | Block-based programming and simulation of a SPIKE Prime-style robot |
+| **[AppCards](https://github.com/atilasos/appcards)** | JS · PWA | [↗](https://atilasos.github.io/appcards/) | Login-card generator for primary school students, offline-ready |
+| **[Coordenadas](https://github.com/atilasos/coordenadas)** | JS · math | [↗](https://atilasos.github.io/coordenadas/) | Cartesian coordinates training game with a kid-friendly RPG vibe |
+| **[Infantinho 3.0](https://github.com/atilasos/infantinho3)** | Python · Django · Next.js · MEM · AI | — | Educational portal aligned with the Modern School Movement |
 
-Public catalogue of self-contained HTML activities for educational contexts, with teacher support materials and a CC BY-SA open license.
+→ More on [atilasos.github.io/projetos.html](https://atilasos.github.io/projetos.html)
 
-### [Infantinho 3.0](https://github.com/atilasos/infantinho3)
+## Areas
 
-Educational portal aligned with the Modern School Movement (MEM), designed to support tools for cooperatively managed learning, projects, individual work plans (PIT), class diary, and responsible AI integration.
+![Education](https://img.shields.io/badge/Education-2ea043?style=flat-square)
+![ICT](https://img.shields.io/badge/ICT-2ea043?style=flat-square)
+![Minecraft Education](https://img.shields.io/badge/Minecraft%20Education-62b47a?style=flat-square&logo=minecraft&logoColor=white)
+![Educational robotics](https://img.shields.io/badge/Educational%20robotics-62b47a?style=flat-square)
+![Computational thinking](https://img.shields.io/badge/Computational%20thinking-62b47a?style=flat-square)
+![Project work](https://img.shields.io/badge/Project%20work-62b47a?style=flat-square)
+![MEM](https://img.shields.io/badge/Modern%20School%20Movement-62b47a?style=flat-square)
+![Responsible AI](https://img.shields.io/badge/Responsible%20AI-8957e5?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=white)
 
-### [Cubinhos 3D](https://github.com/atilasos/cubinhos-3d)
+## Education
 
-Simple voxel builder for children to plan constructions in Minecraft Education and export `.mcstructure` files.
+- **MA in Educational Communication and Digital Media** — Universidade Aberta, 2018
+  Final project: *infantinho.xyz, a pedagogical digital portal* — supporting active learning, project work, and learning-regulation tools.
+- **BA in Primary Education (1.º Ciclo)** — Escola Superior de Educação de Lisboa, 2006
 
-### [CRJM](https://github.com/atilasos/crjm)
-
-Training product for Madeira's Regional Math Games Championship, with official games, progress tracking, and a pedagogical support layer.
-
-### [SpikeLab Sim](https://github.com/atilasos/spikelab-sim)
-
-Educational app for block-based programming and quick simulation of a SPIKE Prime-style robot, with no backend and ready for static deploy.
-
-## Areas I work in
-
-```txt
-Education · ICT · Minecraft Education · Educational robotics · Python · Django
-Linux · Responsible AI · Computational thinking · Project work
-Formative assessment · Modern School Movement · Digital educational resources
-```
-
-## Education and journey
-
-I have a Bachelor's degree in Primary Education (1.º Ciclo) and a Master's in **Educational Communication and Digital Media** from Universidade Aberta. My master's project focused on **infantinho.xyz**, a pedagogical digital portal to support active learning pedagogies, project work, learning regulation tools, and resource sharing in a school context.
-
-I also have additional training in computer science, Python, Linux, educational technologies, responsible AI, Minecraft Education, programming with Micro:bit and Scratch, STEM, school chess, innovative learning environments, and inclusion.
+Plus continuing education in CS50 (HarvardX), Python (U. of Michigan), Linux Foundation, Minecraft Education, Micro:bit, Scratch, STEM, school chess, responsible AI, and inclusive education.
 
 ## Where to find me
 
-- GitHub: [github.com/atilasos](https://github.com/atilasos)
-- Personal site: [atilasos.github.io](https://atilasos.github.io)
-- Professional email: [prof.igor@colegioinfante.info](mailto:prof.igor@colegioinfante.info) · [prof.igor@edu.madeira.gov.pt](mailto:prof.igor@edu.madeira.gov.pt)
+- Site · [atilasos.github.io](https://atilasos.github.io)
+- GitHub · [github.com/atilasos](https://github.com/atilasos)
+- Email · [prof.igor@colegioinfante.info](mailto:prof.igor@colegioinfante.info) · [prof.igor@edu.madeira.gov.pt](mailto:prof.igor@edu.madeira.gov.pt)
 
 ---
 
-## 🇵🇹 Versão em português de Portugal
+<details>
+<summary><strong>🇵🇹 Versão em português de Portugal</strong></summary>
 
-Sou professor de **Tecnologias da Informação e Comunicação** no 1.º ciclo, no Funchal, Madeira. Trabalho com crianças pequenas e procuro usar a tecnologia como instrumento de criação, cooperação, autonomia e pensamento crítico.
+<br>
 
-Interesso-me especialmente por **pedagogias ativas**, **trabalho de projeto**, **pensamento computacional**, **Minecraft Education**, **robótica educativa**, **inteligência artificial responsável na educação** e ferramentas digitais que ajudem alunos e professores a organizar melhor o processo de aprendizagem.
+> Uso a tecnologia como meio para dar mais **autoria**, **voz** e **autonomia** às crianças — não como fim em si mesma.
 
-> Uso a tecnologia como meio para dar mais autoria, voz e autonomia às crianças — não como fim em si mesma.
+Sou professor de **Tecnologias da Informação e Comunicação** no 1.º ciclo, no Colégio Infante D. Henrique, Funchal. Trabalho com crianças pequenas desde 2006 e na área das TIC desde 2009. Encaro a tecnologia como instrumento de criação, cooperação e pensamento crítico.
 
 ### O que faço
 
-- Ensino TIC a crianças do pré-escolar e do 1.º ciclo.
-- Crio atividades com Minecraft Education, robótica, programação e ferramentas digitais.
-- Desenvolvo experiências e pequenos projetos para apoiar a organização das aprendizagens.
-- Exploro formas responsáveis de usar inteligência artificial em contexto educativo.
-- Trabalho a partir de uma visão pedagógica centrada na cooperação, autonomia, autoria e avaliação formativa.
+- 🧑‍🏫 Ensino TIC a crianças do pré-escolar e do 1.º ciclo
+- 🧱 Crio atividades com **Minecraft Education**, **robótica**, **programação** e ferramentas digitais
+- 🛠️ Desenvolvo experiências e pequenas ferramentas para apoiar a organização das aprendizagens
+- 🤖 Exploro **IA responsável** em contexto educativo
+- 🤝 Trabalho a partir de uma pedagogia de **cooperação, autonomia, autoria e avaliação formativa**
 
 ### Projetos em destaque
 
-- **[PageCraft](https://github.com/atilasos/pagecraft)** — catálogo público de atividades HTML self-contained, CC BY-SA.
-- **[Infantinho 3.0](https://github.com/atilasos/infantinho3)** — portal educativo alinhado com o Movimento da Escola Moderna.
-- **[Cubinhos 3D](https://github.com/atilasos/cubinhos-3d)** — construtor voxel para Minecraft Education.
-- **[CRJM](https://github.com/atilasos/crjm)** — treino para o Campeonato Regional de Jogos Matemáticos da Madeira.
-- **[SpikeLab Sim](https://github.com/atilasos/spikelab-sim)** — programação por blocos e simulação tipo SPIKE Prime.
+| Projeto | Stack | Demo | Descrição |
+|---|---|---|---|
+| **[PageCraft](https://github.com/atilasos/pagecraft)** | HTML · CC BY-SA | [↗](https://atilasos.github.io/pagecraft/) | Catálogo de atividades HTML self-contained com apoio ao professor |
+| **[Cubinhos 3D](https://github.com/atilasos/cubinhos-3d)** | JS · Minecraft Education | [↗](https://atilasos.github.io/cubinhos-3d/) | Construtor voxel que exporta `.mcstructure` para Minecraft Education |
+| **[CRJM](https://github.com/atilasos/crjm)** | TS · jogos matemáticos | [↗](https://atilasos.github.io/crjm/) | Treino para o Campeonato Regional de Jogos Matemáticos da Madeira |
+| **[SpikeLab Sim](https://github.com/atilasos/spikelab-sim)** | TS · React · Blockly · Matter.js | [↗](https://atilasos.github.io/spikelab-sim/) | Programação por blocos e simulação tipo SPIKE Prime |
+| **[AppCards](https://github.com/atilasos/appcards)** | JS · PWA | [↗](https://atilasos.github.io/appcards/) | Gerador de cartões de login para alunos do 1.º ciclo, offline-ready |
+| **[Coordenadas](https://github.com/atilasos/coordenadas)** | JS · matemática | [↗](https://atilasos.github.io/coordenadas/) | Jogo de treino de coordenadas cartesianas com atmosfera de RPG infantil |
+| **[Infantinho 3.0](https://github.com/atilasos/infantinho3)** | Python · Django · Next.js · MEM · IA | — | Portal educativo alinhado com o Movimento da Escola Moderna |
 
-### Formação e percurso
+→ Mais em [atilasos.github.io/projetos.html](https://atilasos.github.io/projetos.html)
 
-Sou licenciado em Ensino Básico — 1.º Ciclo e mestre em **Comunicação Educacional e Média Digitais** pela Universidade Aberta. O meu projeto de mestrado centrou-se no desenvolvimento do **infantinho.xyz**, um portal digital pedagógico para apoiar pedagogias ativas, trabalho por projetos, instrumentos de regulação das aprendizagens e partilha de recursos em contexto escolar.
+### Formação
 
-Tenho também formação complementar em ciência da computação, Python, Linux, tecnologias educativas, inteligência artificial responsável, Minecraft Education, programação com Micro:bit e Scratch, STEM, xadrez escolar, ambientes inovadores de aprendizagem e inclusão.
+- **Mestre em Comunicação Educacional e Média Digitais** — Universidade Aberta, 2018
+  Projeto final: *infantinho.xyz, um portal digital pedagógico* — apoio a pedagogias ativas, trabalho de projeto e instrumentos de regulação das aprendizagens.
+- **Licenciado em Ensino Básico — 1.º Ciclo** — Escola Superior de Educação de Lisboa, 2006
+
+Formação contínua em CS50 (HarvardX), Python (U. of Michigan), Linux Foundation, Minecraft Education, Micro:bit, Scratch, STEM, xadrez escolar, IA responsável e educação inclusiva.
 
 ### Onde me encontrar
 
-- GitHub: [github.com/atilasos](https://github.com/atilasos)
-- Site pessoal: [atilasos.github.io](https://atilasos.github.io)
-- Email profissional: [prof.igor@colegioinfante.info](mailto:prof.igor@colegioinfante.info) · [prof.igor@edu.madeira.gov.pt](mailto:prof.igor@edu.madeira.gov.pt)
+- Site · [atilasos.github.io](https://atilasos.github.io)
+- GitHub · [github.com/atilasos](https://github.com/atilasos)
+- Email · [prof.igor@colegioinfante.info](mailto:prof.igor@colegioinfante.info) · [prof.igor@edu.madeira.gov.pt](mailto:prof.igor@edu.madeira.gov.pt)
+
+</details>
 
 ---
 
-> A tecnologia só faz sentido na escola quando ajuda as crianças a pensar, criar, colaborar e participar melhor no mundo.
+<div align="center">
+<sub>A tecnologia só faz sentido na escola quando ajuda as crianças a pensar, criar, colaborar e participar melhor no mundo.</sub>
+</div>
