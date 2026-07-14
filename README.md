@@ -14,9 +14,10 @@ Professor de Tecnologias da Informação e Comunicação no 1.º ciclo, no Colé
 
 ## Projetos selecionados
 
+- **[História do Dia](https://github.com/atilasos/hisdodia)** — Reconstrução educativa do arquivo «História do Dia»: 366 histórias, uma para cada dia do ano, com edição ilustrada e leitura confortável. *HTML.* Demo: [atilasos.github.io/hisdodia](https://atilasos.github.io/hisdodia/).
 - **[PageCraft](https://github.com/atilasos/pagecraft)** — Catálogo público de atividades HTML self-contained para contexto educativo, com materiais de apoio ao professor. *HTML, CC BY-SA.* Demo: [atilasos.github.io/pagecraft](https://atilasos.github.io/pagecraft/).
 - **[Cubinhos 3D](https://github.com/atilasos/cubinhos-3d)** — Construtor voxel simples para crianças do 1.º ciclo planearem construções em blocos reais do Minecraft Education e exportarem ficheiros `.mcstructure`. *JavaScript.* Demo: [atilasos.github.io/cubinhos-3d](https://atilasos.github.io/cubinhos-3d/).
-- **[CRJM](https://github.com/atilasos/crjm)** — Produto de treino para o Campeonato Regional de Jogos Matemáticos da Madeira, com jogos oficiais, progresso e camada pedagógica de apoio. *TypeScript.* Demo: [atilasos.github.io/crjm](https://atilasos.github.io/crjm/).
+- **[CRJM](https://github.com/atilasos/crjm)** — Plataforma de treino para o Campeonato Regional de Jogos Matemáticos da Madeira, com os seis jogos oficiais, pistas graduais e modo campeonato. *TypeScript.* Demo: [atilasos.github.io/crjm](https://atilasos.github.io/crjm/).
 - **[SpikeLab Sim](https://github.com/atilasos/spikelab-sim)** — Aplicação web educativa para programação por blocos e simulação rápida de um robô tipo SPIKE Prime, sem backend. *TypeScript, React, Blockly, Matter.js.* Demo: [atilasos.github.io/spikelab-sim](https://atilasos.github.io/spikelab-sim/).
 - **[AppCards](https://github.com/atilasos/appcards)** — Aplicação web para gerar cartões de login para alunos do 1.º ciclo, com suporte CSV/Excel e funcionamento offline. *JavaScript, PWA.* Demo: [atilasos.github.io/appcards](https://atilasos.github.io/appcards/).
 - **[Coordenadas](https://github.com/atilasos/coordenadas)** — Jogo de treino de coordenadas cartesianas com atmosfera de RPG infantil, pensado para crianças a partir dos 7 anos. *JavaScript.* Demo: [atilasos.github.io/coordenadas](https://atilasos.github.io/coordenadas/).
@@ -60,9 +61,10 @@ ICT teacher in primary school (1.º ciclo) at Colégio Infante D. Henrique, Func
 
 ### Selected projects
 
+- **[História do Dia](https://github.com/atilasos/hisdodia)** — Educational reconstruction of the "História do Dia" archive: 366 stories, one for each day of the year, with an illustrated edition. *HTML.* Demo: [atilasos.github.io/hisdodia](https://atilasos.github.io/hisdodia/).
 - **[PageCraft](https://github.com/atilasos/pagecraft)** — Public catalogue of self-contained HTML activities for educational contexts. *HTML, CC BY-SA.* Demo: [atilasos.github.io/pagecraft](https://atilasos.github.io/pagecraft/).
 - **[Cubinhos 3D](https://github.com/atilasos/cubinhos-3d)** — Voxel builder that exports `.mcstructure` for Minecraft Education. *JavaScript.* Demo: [atilasos.github.io/cubinhos-3d](https://atilasos.github.io/cubinhos-3d/).
-- **[CRJM](https://github.com/atilasos/crjm)** — Training app for Madeira's Regional Math Games Championship. *TypeScript.* Demo: [atilasos.github.io/crjm](https://atilasos.github.io/crjm/).
+- **[CRJM](https://github.com/atilasos/crjm)** — Training platform for Madeira's Regional Math Games Championship, with the six official games, graded hints, and a tournament mode. *TypeScript.* Demo: [atilasos.github.io/crjm](https://atilasos.github.io/crjm/).
 - **[SpikeLab Sim](https://github.com/atilasos/spikelab-sim)** — Block-based programming and simulation of a SPIKE Prime-style robot. *TypeScript, React, Blockly, Matter.js.* Demo: [atilasos.github.io/spikelab-sim](https://atilasos.github.io/spikelab-sim/).
 - **[AppCards](https://github.com/atilasos/appcards)** — Login-card generator for primary school students, offline-ready. *JavaScript, PWA.* Demo: [atilasos.github.io/appcards](https://atilasos.github.io/appcards/).
 - **[Coordenadas](https://github.com/atilasos/coordenadas)** — Cartesian coordinates training game with a kid-friendly RPG atmosphere. *JavaScript.* Demo: [atilasos.github.io/coordenadas](https://atilasos.github.io/coordenadas/).
